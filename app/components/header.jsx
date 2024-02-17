@@ -19,7 +19,7 @@ const Header1 = () => {
         <Block title={"Become a member"} para={"Additional 0% off on stays."} />
         <Block
           title={"OYO for business"}
-          para={"Trusted by 5000 corporates."}
+          para={"Trusted by 5000 corporates.."}
         />
         <Block title={"List your property"} para={"Start earning in 30 min."} />
         <Block title={"987654321"} para={"Call us to book now."} />
